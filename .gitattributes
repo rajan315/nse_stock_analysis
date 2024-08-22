@@ -1,0 +1,4 @@
+nse_stock filter=lfs diff=lfs merge=lfs -text
+nse_all_stock_data filter=lfs diff=lfs merge=lfs -text
+nse_stock.ipynb filter=lfs diff=lfs merge=lfs -text
+nse_all_stock_data.csv filter=lfs diff=lfs merge=lfs -text
